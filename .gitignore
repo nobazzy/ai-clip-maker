@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+env/
+venv/
+
+# Heavy binaries and temporary media
+bin/ffmpeg.exe
+bin/ffprobe.exe
+temp/
+output/
+*.wav
+*.mp4
+*.mkv
+*.webm
+*.part
+*.ytdl
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
